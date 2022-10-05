@@ -1,5 +1,5 @@
 body{
-	background:url(../images/IMG_1540.JPG);
+	background:url(IMG_1540.JPG);
 	background-size: cover;
 	font-style: italic;
 }
@@ -14,7 +14,7 @@ p{
 
 
 h1,h2{
-	color: blanchedalmond;
+	color: rgb(0, 0, 255);
 	text-decoration: underline;
 	font-weight:bold ;
 }
